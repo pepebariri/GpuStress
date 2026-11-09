@@ -1,0 +1,28 @@
+GpuStress - Licença de Uso
+
+Copyright (c) 2026 João Luis Pepe. Todos os direitos reservados.
+
+O GpuStress é um programa de distribuição gratuita. Esta licença vale a partir
+da versão 1.0.13.
+
+É permitido, sem custo:
+- baixar, instalar e usar o programa, inclusive em atividade profissional;
+- repassar o arquivo original, sem alterações e sem cobrança.
+
+Não é permitido, sem autorização por escrito do autor:
+- vender, alugar ou cobrar pelo programa;
+- alterar o programa ou remover os avisos de autoria;
+- descompilar ou fazer engenharia reversa do programa, salvo nos casos
+  garantidos por lei;
+- copiar o código-fonte, os limites de diagnóstico, a base de placas ou os
+  critérios de análise, no todo ou em parte, para outro produto.
+
+Os componentes de terceiros seguem as licenças próprias, listadas em
+THIRD-PARTY-NOTICES.md.
+
+Versões até a 1.0.12 foram publicadas sob a licença MIT, que continua valendo
+para aquelas versões.
+
+O PROGRAMA É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIAS DE QUALQUER
+TIPO. TESTES DE ESTRESSE PODEM TRAVAR OU REINICIAR O COMPUTADOR. NA MEDIDA
+PERMITIDA POR LEI, O AUTOR NÃO SE RESPONSABILIZA POR DANOS DECORRENTES DO USO.
